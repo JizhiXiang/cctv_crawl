@@ -2,6 +2,8 @@
 爬虫cctv视频并下载。 download cctv video by python.
 
 
-比较简单，也很实用，视频过程可以参考我的b站视频
+比较简单，也很实用，实际操作录了个视频，链接：https://pan.baidu.com/s/1BvV8mgQCGrHgQvUx7rL-mg 
+提取码：w9od 
 
-It's simple but useful, you can get more information in my bilibili space.
+It's simple but useful, you can get more information in my video.
+
