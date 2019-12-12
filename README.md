@@ -7,3 +7,7 @@
 
 It's simple but useful, you can get more information in my video.
 
+博客，教程：Fiddler的使用[抓包] [https://blog.csdn.net/GreatXiang888/article/details/103509817](https://blog.csdn.net/GreatXiang888/article/details/103509817)
+
+ 
+下载cctv视频[python] [https://blog.csdn.net/GreatXiang888/article/details/103511686](https://blog.csdn.net/GreatXiang888/article/details/103511686)
